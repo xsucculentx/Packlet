@@ -16,11 +16,11 @@ Packlet is a very easy to use, but extensible package manager. Currently it has 
 ### Windows:
 Place the binary wherever you want to use it, and open it using a command from above, it will automatically install.
 ### MacOS:
-**NOT IMPLEMENTED**(yet)
+**NOT IMPLEMENTED** (yet)
 ### Linux:
-**NOT IMPLEMENTED**(yet)
+**NOT IMPLEMENTED** (yet)
 
 ## Coming soon
-**Linux** support
-**MacOS** supporrt
+**Linux** support  
+**MacOS** supporrt  
 **Scoop Bucket** support for Windows packages
