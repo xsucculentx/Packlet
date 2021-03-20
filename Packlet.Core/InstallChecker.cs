@@ -5,7 +5,7 @@ namespace Packlet.Core
 {
     public class InstallChecker
     {
-        public void Check()
+        public static void Check()
         {
             if (!Directory.Exists(Config.InstallFolder))
             {
@@ -25,6 +25,11 @@ namespace Packlet.Core
             if (!Directory.Exists(Config.PluginFolderLocation))
             {
                 Directory.CreateDirectory(Config.PluginFolderLocation);
+            }
+
+            if (!Directory.Exists(Config.PackagesLocation))
+            {
+                Directory.CreateDirectory(Config.PackagesLocation);
             }
 
             if (!File.Exists(Config.MirrorsFileLocation))

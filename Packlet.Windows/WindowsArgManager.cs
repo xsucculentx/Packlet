@@ -12,6 +12,8 @@ namespace Packlet.Windows
         
         public void Parse(string[] args)
         {
+            InstallChecker.Check();
+            
             foreach (string arg in args)
             {
                 if (arg.StartsWith("--")) 

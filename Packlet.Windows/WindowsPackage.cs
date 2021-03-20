@@ -109,9 +109,11 @@ namespace Packlet.Windows
                 if ($@"{Config.PackagesLocation}\{query}" == package)
                 {
                     Screen.Print(":: Package Found, Uninstall? (y/n) ");
-                    
+
                     ConsoleKeyInfo keypress = Console.ReadKey(true);
-                        
+                    
+                    Screen.Print("\n");
+                    
                     if (keypress.KeyChar is 'y' or 'Y')
                     {
                         PackageInfo pkgInfo = JsonConvert.DeserializeObject<PackageInfo>(File.ReadAllText($@"{package}\pkg.lock"));
@@ -154,10 +156,12 @@ namespace Packlet.Windows
             {
                 if ($@"{Config.PackagesLocation}\{query}" == package)
                 {
-                    Screen.PrintLn(":: Package Found, Update? (y/n)");
+                    Screen.Print(":: Package Found, Update? (y/n) ");
                     
-                    ConsoleKeyInfo keypress = Console.ReadKey(true);
+                    ConsoleKeyInfo keypress = Console.ReadKey();
                         
+                    Screen.Print("\n");
+                    
                     if (keypress.KeyChar is 'y' or 'Y')
                     {
                         PackageInfo pkgInfo = JsonConvert.DeserializeObject<PackageInfo>(File.ReadAllText($@"{package}\pkg.lock"));
@@ -170,13 +174,13 @@ namespace Packlet.Windows
                             {
                                 string[] lineSplit = line.Split(';');
 
-                                if (int.Parse(pkgInfo.PackageVersion) < int.Parse(lineSplit[1]))
+                                if (int.Parse(pkgInfo.PackageVersion.Replace(".", string.Empty)) < int.Parse(lineSplit[1].Replace(".", string.Empty)))
                                 {
                                     InstallPackage(pkgInfo.PackageName);
                                 }
                                 else
                                 {
-                                    Screen.PrintLn(":: No Update Needed. Quitting");
+                                    Screen.PrintLn("\n:: No Update Needed. Quitting");
 
                                     Environment.Exit(0);
                                 }

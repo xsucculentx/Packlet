@@ -1,0 +1,12 @@
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\bin\Release\net5.0\Packlet.Core.deps.json
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\bin\Release\net5.0\Packlet.Core.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\bin\Release\net5.0\ref\Packlet.Core.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\bin\Release\net5.0\Packlet.Core.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.csprojAssemblyReference.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.AssemblyInfoInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.AssemblyInfo.cs
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.csproj.CoreCompileInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\ref\Packlet.Core.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Core\obj\Release\net5.0\Packlet.Core.pdb

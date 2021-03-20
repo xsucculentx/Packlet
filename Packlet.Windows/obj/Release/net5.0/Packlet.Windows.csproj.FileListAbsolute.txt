@@ -1,0 +1,17 @@
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\bin\Release\net5.0\Packlet.Windows.deps.json
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\bin\Release\net5.0\Packlet.Windows.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\bin\Release\net5.0\ref\Packlet.Windows.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\bin\Release\net5.0\Packlet.Windows.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\bin\Release\net5.0\Packlet.Core.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\bin\Release\net5.0\Packlet.Core.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.csprojAssemblyReference.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Interop.IWshRuntimeLibrary.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.csproj.ResolveComReference.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.AssemblyInfoInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.AssemblyInfo.cs
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.csproj.CoreCompileInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.csproj.CopyComplete
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\ref\Packlet.Windows.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Windows\obj\Release\net5.0\Packlet.Windows.pdb
