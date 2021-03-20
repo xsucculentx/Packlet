@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Packlet.Core\Packlet.Core.csproj" />
+    <ProjectReference Include="..\Packlet.Linux\Packlet.Linux.csproj" />
+    <ProjectReference Include="..\Packlet.MacOS\Packlet.MacOS.csproj" />
+    <ProjectReference Include="..\Packlet.Windows\Packlet.Windows.csproj" />
+  </ItemGroup>
+
+</Project>

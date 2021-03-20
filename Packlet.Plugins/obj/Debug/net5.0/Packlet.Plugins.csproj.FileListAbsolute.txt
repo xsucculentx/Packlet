@@ -1,0 +1,12 @@
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\bin\Debug\net5.0\Packlet.Plugins.deps.json
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\bin\Debug\net5.0\Packlet.Plugins.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\bin\Debug\net5.0\ref\Packlet.Plugins.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\bin\Debug\net5.0\Packlet.Plugins.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.AssemblyInfoInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.AssemblyInfo.cs
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\ref\Packlet.Plugins.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Plugins\obj\Debug\net5.0\Packlet.Plugins.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\bin\Debug\net5.0\Packlet.MacOS.deps.json
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\bin\Debug\net5.0\Packlet.MacOS.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\bin\Debug\net5.0\ref\Packlet.MacOS.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\bin\Debug\net5.0\Packlet.MacOS.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.csprojAssemblyReference.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.AssemblyInfoInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.AssemblyInfo.cs
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.csproj.CoreCompileInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\ref\Packlet.MacOS.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.MacOS\obj\Debug\net5.0\Packlet.MacOS.pdb

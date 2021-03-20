@@ -1,0 +1,12 @@
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\bin\Debug\net5.0\Packlet.Linux.deps.json
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\bin\Debug\net5.0\Packlet.Linux.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\bin\Debug\net5.0\ref\Packlet.Linux.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\bin\Debug\net5.0\Packlet.Linux.pdb
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.csprojAssemblyReference.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.AssemblyInfoInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.AssemblyInfo.cs
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.csproj.CoreCompileInputs.cache
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\ref\Packlet.Linux.dll
+C:\Users\succulent\Desktop\Projects\Packlet\Packlet.Linux\obj\Debug\net5.0\Packlet.Linux.pdb
